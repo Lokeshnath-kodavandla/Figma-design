@@ -18,7 +18,7 @@ const Sidebar = ({ isOpen, setIsOpen }: SidebarProps) => {
     { name: 'Task', icon: <CheckSquare size={18} /> },
     { name: 'App/Web', icon: <MonitorSmartphone size={18} /> },
     { name: 'Analytics', icon: <BarChart3 size={18} /> },
-    { name: 'Media', icon: <Image size={18} /> },
+    { name: 'Media', icon: <Image size={18} alt="logo" /> },
     { name: 'Customize', icon: <Sliders size={18} /> },
     { name: 'Notifications', icon: <Bell size={18} /> },
     { name: 'Subscription', icon: <CreditCard size={18} /> },
