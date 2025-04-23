@@ -1,6 +1,5 @@
 import React from 'react';
 import { MoreHorizontal, Eye } from 'lucide-react';
-import story1 from '../assets/image1.jpg'
 
 type Status = 'Published' | 'Created' | 'Draft';
 
